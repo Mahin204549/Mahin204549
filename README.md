@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm mahin sheikh</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">oftware Engineering Student | Aspiring Frontend Developer
+
+I'm currently learning modern web development and building my skills step by step</h3>
 
 - 📫 How to reach me **mdmahinsheikh51@gmail.com**
 
@@ -15,3 +17,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahin204549&show_icons=true&locale=en" alt="mahin204549" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahin204549&" alt="mahin204549" /></p>
+### 🎯 My Goal
+
+To become a skilled Frontend Developer and build real-world web applications.
+
+### 📌 Projects
+
+🚧 Currently building my first projects.
+
+More projects coming soon!
